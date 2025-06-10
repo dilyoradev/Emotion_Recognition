@@ -55,7 +55,7 @@ The model predicts the following emotions:
 - Surprise
 
 ## 📸 Example Screenshot
-![Example Screenshot]<img width="200" alt="test_image" src="https://github.com/user-attachments/assets/c09d2467-c615-49ea-850f-1a1dad02dd9b" />
+![Example Screenshot]<img width="200" alt="test_image" src="https://github.com/user-attachments/assets/3578f5dc-6b60-43d7-8651-d61a83eda751" />
 
 ## 🔧 Future Improvements
 - Improve model accuracy with a larger dataset.
